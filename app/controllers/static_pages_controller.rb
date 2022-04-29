@@ -1,5 +1,6 @@
 class StaticPagesController < ApplicationController
   def home
+    #raise StandardError.new "wut"
   end
 
   def help
